@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prohashim&label=Profile%20views&color=0e75b6&style=flat" alt="prohashim" /> </p>
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 Working on **Fiverr**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Learning **ReactJS**
 
 - 💬 Ask me about **Javascript**
 
