@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
-<h3 align="center">ReactJS, WordPress, trading and music 🎵</h3>
+<h3 align="center">Your coding teacher, I enjoy writing code and music 🎵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prohashim&label=Profile%20views&color=0e75b6&style=flat" alt="prohashim" /> </p>
 
